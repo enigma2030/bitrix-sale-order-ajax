@@ -1,0 +1,14 @@
+{
+    "name": "enigma2030/bitrix-sale-order-ajax",
+    "description": "Custom templates for sale.order.ajax component",
+    "type": "bitrix-component-template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikhail",
+            "email": "enigma@itlider.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
